@@ -20,7 +20,7 @@ link for the data-frame:  http://liwc.wpengine.com
 
 
 
-# Code Iformation
+# Code Information
 - Data Cleaning
 The dataset was checked for any duplicate PostIDs which would mean that the same record is present
 more than once in the dataset but none were found.
